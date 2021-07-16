@@ -1,0 +1,2 @@
+day 1:
+    Setting up the enviroment and making necessary installations for the Mern stack to work properly.
