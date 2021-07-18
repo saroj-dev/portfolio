@@ -1,0 +1,12 @@
+/* setting up the color palate */
+:root{
+    --primary-nav:#343a40;
+    --primary-bg:#212429;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+}

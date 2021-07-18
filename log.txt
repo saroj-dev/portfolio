@@ -1,2 +1,7 @@
 day 1:
     Setting up the enviroment and making necessary installations for the Mern stack to work properly.
+
+Day 2:
+     cleaning up the default code and finishing Setting up the enviroment and making the basic design ready.
+Day 3:
+    setting up the design tools and starting the design idea.
